@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamitefp&label=Profile%20views&color=0e75b6&style=flat" alt="dynamitefp" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dynamitefp" target="blank"><img src="https://img.shields.io/twitter/follow/dynamitefp?logo=twitter&style=for-the-badge" alt="dynamitefp" /></a> </p>
 
 - 📫 How to reach me **admin@faizanpasha.com**
 
