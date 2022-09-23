@@ -21,5 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dynamitefp&show_icons=true&locale=en" alt="faizan-pasha" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dynamitefp&" alt="faizan-pasha" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-pasha&" alt="faizan-pasha" /></p>
 
