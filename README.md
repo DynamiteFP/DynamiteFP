@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Pasha</h1>
-<h3 align="center">A passionate front-end and back-end developer for India</h3>
+<h3 align="center">A passionate front-end and back-end developer from India</h3>
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
