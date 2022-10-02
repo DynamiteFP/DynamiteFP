@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Faizan Pasha</h1>
 <h3 align="center">A passionate front-end and back-end developer for India</h3>
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+# Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dynamitefp&label=Profile%20views&color=0e75b6&style=flat" alt="dynamitefp" /> </p>
