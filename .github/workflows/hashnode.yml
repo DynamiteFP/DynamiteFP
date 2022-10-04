@@ -18,7 +18,7 @@ jobs:
         with:
           USERNAME: "FaizanPasha" # Hashnode Username
           COUNT: 1 # MAX Visisble
-          STYLE: "blog-center"
+          STYLE: "blog-left"
           BLOG_URL: "https://blog.faizanpasha.com/"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
