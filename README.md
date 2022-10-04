@@ -3,7 +3,18 @@
 
 # Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://blog.faizanpasha.com//phone-auth-with-express-and-nodejs" title="Phone Auth with Express and Node.js"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664677134935/G7aNXnvXr.png" alt="Phone Auth with Express and Node.js" width="250px" align="left" /></a>
+<a href="https://blog.faizanpasha.com//phone-auth-with-express-and-nodejs" title="Phone Auth with Express and Node.js"><strong>Phone Auth with Express and Node.js</strong></a>
+<br/> A simple web tutorial to make a Phone Auth API with express using node.
+Sign In user with Phone Number and OTP without Firebase or AWS Amplify.
 
+I'm using Twilio in this example you could use any SMS provider.
+
+Dependencies needed
+
+Twilio
+  call the ... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
